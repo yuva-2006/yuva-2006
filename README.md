@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack wen development
 - 🌱 I’m currently learning Artificial Intelligence And Data Science
 - 💞️ I’m looking to collaborate on projects related to web development or AI/Data Science.
-- 📫 Everyone can reach me yuvarajm.aids2023@citchennai.net
+- 📫 Everyone can reach me with my mail id yuvarajm.aids2023@citchennai.net
 - 😄 Pronouns: He
 - ⚡ Fun fact: I enjoy exploring new technologies and experimenting with coding challenges in my free time!
 
