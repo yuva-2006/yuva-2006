@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuva-2006
-- 👀 I’m interested in full stack wen developer
+- 👀 I’m interested in full stack wen development
 - 🌱 I’m currently learning Artificial Intelligence And Data Science
 - 💞️ I’m looking to collaborate on projects related to web development or AI/Data Science.
 - 📫 How to reach me yuvarajm.aids2023@citchennai.net
